@@ -1,2 +1,2 @@
 move: Flamethrower
-move: Firespin
+move: Scratch
